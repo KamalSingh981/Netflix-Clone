@@ -1,6 +1,6 @@
 # NETFLIX CLONE
 
-Link of the Site
+Link of the Site-https://netlix-clone-205.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
